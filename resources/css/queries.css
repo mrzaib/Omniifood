@@ -1,0 +1,90 @@
+@media only screen and (max-width: 1200px) {
+    
+    .hero-text-box{
+        width: 100%;
+        padding: 0 2%;
+    }
+    
+    .row {
+        padding: 0 2%;
+    }
+
+    
+}
+
+
+
+@media only screen and (max-width: 1023px) {
+    html,
+    body {
+        font-size: 18px;
+    }
+    
+    .long-copy{
+        width: 80%;
+        margin-left: 10%;
+    }
+    
+    section{
+        padding: 60px 0;
+    }
+    
+    .step-box:first-child{
+        
+        margin-top: 0px;
+    }   
+
+
+    .step-box:last-child{
+        margin-top: 30px;
+    }
+    
+    .work-steps {
+        margin-bottom: 40px;
+    }
+    
+    .app-screen {
+        width: 45%;
+        height: auto;
+    }
+    
+    .work-steps div {
+        width: 50px;
+        height: 50px;
+        padding: 6px;
+        font-size: 160%;
+    }
+    
+    .plan-box {
+        font-size: 95%;
+    }
+    
+    .price-plan {
+        font-size: 250%;
+    }
+    
+    .box div {
+        font-size: 90%;
+    }
+    
+    .box h3 {
+        font-size: 100%;
+    }
+    
+    .box .small-icons {
+        margin-right: 0;
+    }
+}
+
+
+@media only screen and (max-width: 767px) {
+    
+    
+}
+
+
+
+@media only screen and (max-width: 480px) {
+    
+    
+}
